@@ -1,5 +1,4 @@
 1. System requirements
-
 1) These codes are runned in Matlab R2017a and the operating system is Windows 10
 2) The version of the software been tested on is Matlab 2017a
 3) Their is no any requried non-standard hardware
@@ -16,7 +15,7 @@ All the environment path is shown change to relative path in the code, and you c
 However, before you run 'main_svm.m', you need to combine 'GSE26712_I.xslx' and 'GSE26712_II.xslx' in order. 
 
 2) Expected output
-you can get two figures as shown in below which represent K-M curve and AUC curve respectivley, and a data named 'geneSig.mat' which stores
+you can get two figures as shown in 'K-M curve.fig' and 'AUC curve.fig' which represent K-M curve and AUC curve respectivley, and a data named 'geneSig.mat' which stores
 predicted gene signatures.
 
 3) Expected run time
