@@ -21,6 +21,6 @@ predicted gene signatures.
 3) Expected run time
 It takes usually 3 minutes to complete this process
 
-4. Instructions for use
+4. Instructions for use 
 1) You just need to drag the 'main_svm.m' to your matlab 2017a, and click 'run'
 2) The data used in Demo is the data used in the manuscript.
