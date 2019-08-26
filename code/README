@@ -1,1 +1,27 @@
+1. System requirements
 
+1) These codes are runned in Matlab R2017a and the operating system is Windows 10
+2) The version of the software been tested on is Matlab 2017a
+3) Their is no any requried non-standard hardware
+
+
+2. Installation guide
+1) You need to go to https://www.mathworks.com to download Matlab 2017
+2）Matlab 2017 is usually installed within 4 hours
+
+3. Demo
+1) Instructions to run on data
+The example data is shown in the data file (../data), and all the data you need is included. 
+All the environment path is shown change to relative path in the code, and you can run this code by directly run 'main_svm.m'.
+However, before you run 'main_svm.m', you need to combine 'GSE26712_I.xslx' and 'GSE26712_II.xslx' in order. 
+
+2) Expected output
+you can get two figures as shown in below which represent K-M curve and AUC curve respectivley, and a data named 'geneSig.mat' which stores
+predicted gene signatures.
+
+3) Expected run time
+It takes usually 3 minutes to complete this process
+
+4. Instructions for use
+1) You just need to drag the 'main_svm.m' to your matlab 2017a, and click 'run'
+2) The data used in Demo is the data used in the manuscript.
